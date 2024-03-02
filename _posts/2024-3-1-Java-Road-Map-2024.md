@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java Developer Roadmap in 2024"
-date: 2024-2-1 11:20:00 -0500
+date: 2024-3-1 11:20:00 -0500
 categories: developer
 tags: java developer roadmap 2024 howto how
 image:
