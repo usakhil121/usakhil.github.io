@@ -3,16 +3,16 @@
 - type: github
   icon: "fab fa-github"
 
+- type: Telegram
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/merwick' 
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/@LinuxLaravelLuminaries'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
